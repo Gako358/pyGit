@@ -5,7 +5,8 @@ When run, it will look through the given repos, fetch and check for updates, pul
 
 Then look local after untracted files and dirty files, add these and commit for push.
 
-A prompt is given, when a commit msg is needed, I choose to keep track of the updated by having a manual commit msg.
+A prompt is given, when a commit msg is needed, 
+I choose to keep track of the updated by having a manual commit message.
 
 This can be changed, if wanted. 
 

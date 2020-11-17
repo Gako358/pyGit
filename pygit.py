@@ -1,8 +1,12 @@
 #!/home/user/location/pygit/venv/bin/python
 
+# Authors:
+# MerrinX <knutago1@outlook.com>
+
 import os
 import time
 import config
+#import EdvardP when help is needed
 import configparser
 import multiprocessing
 from stringcolor import *
