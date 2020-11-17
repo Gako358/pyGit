@@ -1,7 +1,7 @@
 # pyGit
 pyGit is a automatic git helper, written in python, using the gitpython library.
 
-When runned it will look through the given repos, fetch and check for updates, pull if needed. 
+When run, it will look through the given repos, fetch and check for updates, pull if needed. 
 
 Then look local after untracted files and dirty files, add these and commit for push.
 
