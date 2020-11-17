@@ -31,9 +31,9 @@ email = git email address
 
 #### pygit
 
-On line 71, insert the full path to the user.cfg file
+On line 75, insert the full path to the user.cfg file
 
-On line 88, insert the full path to the repos.cfg file
+On line 92, insert the full path to the repos.cfg file
 
 
 
