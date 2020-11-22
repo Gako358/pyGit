@@ -3,11 +3,11 @@
 #############################################
 
 ### Colors ###
-RED     = "#fb4934"
-GREEN   = "#b8bb26"
-YELLOW  = "#fabd2f"
-BLUE    = "#83a598"
-MAGENTA = "#d3869b"
-CYAN    = "#8ec07c"
+RED     = "#fc5d7c"
+GREEN   = "#9ed072"
+YELLOW  = "#e7c664"
+BLUE    = "#76cce0"
+MAGENTA = "#b39df3"
+CYAN    = "#f39660"
 
 
